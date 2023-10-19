@@ -9,12 +9,16 @@ profile:
   image: IMG_0817.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>江苏省南京市栖霞区仙林大道</p>
+    <p>163号</p>
+    <p>bittersweet_ha@163.com</p>
+
 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 <br>
