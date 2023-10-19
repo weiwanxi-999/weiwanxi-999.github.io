@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>What I Want</a> - Live Fast.Die Young.Be Wild.And Have Fun.
+subtitle: 韦婉茜是南京大学新闻传播学院计算传播专硕，师从<a [href](https://socratesclub.github.io/)='#'>Cheng-jun Wang</a>。暂无个人研究方向，仍在探索当中……
 
 profile:
   align: right
@@ -21,12 +21,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<br>
 
-<br>
-
-家在重庆  有个妹妹  有个好友
-
-本科毕业  湘潭大学  现在正在  南京大学  专攻学习  计算传播
-
-生性爱笑  小有一点  做饭天赋  于是所以  爱好吃饭
