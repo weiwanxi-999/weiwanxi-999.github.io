@@ -6,7 +6,7 @@ subtitle: <a href='#'>What I Want</a> - Live Fast.Die Young.Be Wild.And Have Fun
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_0817.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
