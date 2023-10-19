@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun Wang](https://socratesclub.github.io/)</br>暂无个人研究方向，仍在探索当中……
+subtitle: 南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun Wang](https://socratesclub.github.io/) <br>暂无个人研究方向，仍在探索当中……
 
 profile:
   align: right
