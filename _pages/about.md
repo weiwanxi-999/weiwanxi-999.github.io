@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: one.JPG
+  image: one.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>江苏省南京市栖霞区仙林大道163号</p>
