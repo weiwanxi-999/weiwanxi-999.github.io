@@ -6,7 +6,7 @@ subtitle: 南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun W
 
 profile:
   align: right
-  image: IMG_0817.JPG
+  image: one.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>江苏省南京市栖霞区仙林大道163号</p>
