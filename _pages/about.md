@@ -25,12 +25,6 @@ social: true  # includes social icons at the bottom of the page
 
 So,if i have nothing notable to show,i just post something to share.👇
 
-I belonged to no one who belonged to everyone
-Who had nothing，who wanted everything
-with a fire for every experience and an obsession for freedom
-That terrified me to the point
-That I couldn’t even talk about it
-And pushed me to a nomadic point of madness
-That both dazzled and dizzied me
+I belonged to no one who belonged to everyone<br>Who had nothing，who wanted everything<br>with a fire for every experience and an obsession for freedom<br>That terrified me to the point<br>That I couldn’t even talk about it<br>And pushed me to a nomadic point of madness<br>That both dazzled and dizzied me
 
                                       ——————lana del rey
