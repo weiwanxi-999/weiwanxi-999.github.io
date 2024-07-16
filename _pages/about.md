@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun Wang](https://socratesclub.github.io/) <br>暂无个人研究方向，仍在探索当中……
+韦婉茜<br>南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun Wang](https://socratesclub.github.io/) <br>暂无个人研究方向，仍在探索当中……
 
 <br>
 So,if i have nothing notable to show,i just post something to share.👇
