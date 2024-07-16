@@ -21,11 +21,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-韦婉茜<br>南京大学新闻传播学院计算传播专硕<br>师从[Cheng-jun Wang](https://socratesclub.github.io/) <br>暂无个人研究方向，仍在探索当中……
+Wei Wanxi, born in January 2000 in Chongqing, China. Graduated with a bachelor's degree in Journalism from Xiangtan University, where I received systematic training in journalism and communication. Currently, I am a graduate student in Journalism and Communication at Nanjing University and a member of [Cheng-jun Wang](https://socratesclub.github.io/)'s Computational Communication Lab. At present, I am embarking on a cross-disciplinary journey of knowledge exploration, transitioning from writing, editing, and reviewing in the humanities and social sciences to data analysis in computational communication. I am fully embracing every challenge and moment of growth along this journey.
 
 <br>
-So,if i have nothing notable to show,i just post something to share.👇
+Here, I would like to share some reflections from my spiritual icon with everyone.👇
 
 I belonged to no one who belonged to everyone<br>Who had nothing,who wanted everything<br>with a fire for every experience and an obsession for freedom<br>That terrified me to the point<br>That I couldn’t even talk about it<br>And pushed me to a nomadic point of madness<br>That both dazzled and dizzied me
 
                                       ——————lana del rey
+
+
+
+Feel free to read on and discover more.👉
