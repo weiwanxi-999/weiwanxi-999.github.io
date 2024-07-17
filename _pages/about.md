@@ -9,8 +9,8 @@ profile:
   image: one.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>江苏省南京市栖霞区仙林大道163号</p>
-    <p>bittersweet_ha@163.com</p>
+    <p>School of Journalism and Communication, Nanjing University</p>
+    <p>163 Xianlin Street, Qixia District, Nanjing, Jiangsu 210023</p>
 
 
 
@@ -32,4 +32,6 @@ I belonged to no one who belonged to everyone<br>Who had nothing,who wanted ever
 
 
 
+
+<br>
 Feel free to read on and discover more.👉
