@@ -123,8 +123,11 @@ blog_name: WELCOME # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Let us go and kiss the fireworks together.
 permalink: /blog/:year/:title/
+blog_image: 
+  url: "https://github.com/weiwanxi-999/weiwanxi-999.github.io/blob/master/assets/img/freepik-export-202407170738203BOS.png"
+  align: "middle"
+  width: "1500px"
 
-<img src="https://github.com/weiwanxi-999/weiwanxi-999.github.io/blob/master/assets/img/freepik-export-202407170738203BOS.png" align = "middle" width = "800px">
 
 # Pagination
 pagination:
