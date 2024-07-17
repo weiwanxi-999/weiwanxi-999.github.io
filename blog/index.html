@@ -166,3 +166,20 @@ pagination:
   {% include pagination.html %}
 
 </div>
+
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.blog_name }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.blog_nav_title }}</h1>
+    <p>{{ site.blog_description }}</p>
+    {% if site.blog_image %}
+      <img src="{{ site.blog_image.url }}" align="{{ site.blog_image.align }}" width="{{ site.blog_image.width }}">
+    {% endif %}
+  </header>
