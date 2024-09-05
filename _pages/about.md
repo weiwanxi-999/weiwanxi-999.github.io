@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Wei Wanxi, born in January 2000 in Chongqing, China. Graduated with a bachelor's degree in Journalism from Xiangtan University, where I received systematic training in journalism and communication. Currently, I am a graduate student in Journalism and Communication at Nanjing University and a member of [Cheng-jun Wang](https://socratesclub.github.io/)'s Computational Communication Lab. At present, I am embarking on a cross-disciplinary journey of knowledge exploration, transitioning from writing, editing, and reviewing in the humanities and social sciences to data analysis in computational communication. I am fully embracing every challenge and moment of growth along this journey.
+Wei Wanxi, born in January 2000 in Chongqing, China. Graduated with a bachelor's degree in Journalism from [Xiangtan University](https://wxy.xtu.edu.cn/), where I received systematic training in journalism and communication. Currently, I am a graduate student in the [school of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/) and a member of [Cheng-jun Wang](https://chengjunwang.com/)'s [Computational Communication Collaboratory,](https://socrateslab.github.io/en/). At present, I am embarking on a cross-disciplinary journey of knowledge exploration, transitioning from writing, editing, and reviewing in the humanities and social sciences to data analysis in computational communication. I am fully embracing every challenge and moment of growth along this journey.
 
 <br>
 Here, I would like to share some reflections from my spiritual icon with everyone.👇
